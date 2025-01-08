@@ -67,6 +67,10 @@
       <li>Communication Skills</li>
       <li>Conflict Resolution</li>
       <li>Critical Thinking</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
       <li>Emotional Intelligence</li>
       <li>Leadership</li>
       <li>Problem-Solving</li>
